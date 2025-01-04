@@ -13,6 +13,15 @@ index.html: HTML yapısı
 style.css: Tasarım
 app_localStorage.js: JavaScript işlevsellik (görev ekleme, silme, tamamlama)
 
+
+Nasıl Çalıştırılır?
+Proje dosyalarını bilgisayarınıza indirin veya kopyalayın.
+index.html dosyasını bir tarayıcıda açın.
+Görev eklemek için giriş kutusuna bir görev yazın ve Add butonuna basın.
+Görevlerinizi tamamlandı olarak işaretleyebilir veya silebilirsiniz.
+Görevler localStorage kullanılarak kaydedilir, böylece sayfa yeniden yüklendiğinde bile kaybolmaz.
+
+
 #
 
 To-Do List Application
@@ -29,5 +38,13 @@ Relevant Files:
 index.html: HTML structure
 style.css: Design
 app_localStorage.js: JavaScript functionality (add, delete, mark tasks)
+
+How to Run?
+Download or clone the project files to your computer.
+Open the index.html file in any web browser.
+Add tasks by typing in the input box and clicking the Add button.
+You can mark tasks as completed or delete them.
+Tasks are saved using localStorage, so they persist even after the page is reloaded.
+
 
 
